@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Safe City</string>
+    <string-array name="spinnerItems">
+        <item>Danger near me</item>
+        <item>Public Place</item>
+    </string-array>
+</resources>
